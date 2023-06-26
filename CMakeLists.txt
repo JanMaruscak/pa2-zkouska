@@ -3,4 +3,4 @@ project(lol)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(lol dorucovani.cpp)
+add_executable(lol dorucovani2.cpp)
